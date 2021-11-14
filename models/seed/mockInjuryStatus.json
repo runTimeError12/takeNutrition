@@ -1,0 +1,18 @@
+[
+    {
+        "injuryStatusID":1,
+        "title":"Recovered",
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+
+    },
+    {
+        "injuryStatusID":2,
+        "title":"Open",
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+
+    }
+]

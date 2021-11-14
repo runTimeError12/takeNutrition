@@ -1,0 +1,20 @@
+[
+    {
+        "user_login_type_id":1,
+        "login_type_code":"email",
+        "login_type_name":"Email and Password",
+        "is_active": 1
+    },
+    {
+        "user_login_type_id":2,
+        "login_type_code":"google",
+        "login_type_name":"Google",
+        "is_active": 1
+    },
+    {
+        "user_login_type_id":3,
+        "login_type_code":"fb",
+        "login_type_name":"Facebook",
+        "is_active": 1
+    }
+]

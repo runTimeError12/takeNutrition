@@ -1,0 +1,38 @@
+[
+   {
+      "mealTypeID": 1,
+      "name": "Breakfast",
+      "code": "BF",
+      "imgUrl": "https://atlasmappstg.blob.core.windows.net/images/images/breakfast.png",
+      "createdByUserID": 1,
+      "lastUpdatedUserID": 1,
+      "isActive": 1
+   },
+   {
+      "mealTypeID": 2,
+      "name": "Lunch",
+      "code": "LH",
+      "imgUrl": "https://atlasmappstg.blob.core.windows.net/images/images/img2.png",
+      "createdByUserID": 1,
+      "lastUpdatedUserID": 1,
+      "isActive": 1
+   },
+   {
+      "mealTypeID": 3,
+      "name": "Dinner",
+      "code": "DN",
+      "imgUrl": "https://atlasmappstg.blob.core.windows.net/images/images/img3.png",
+      "createdByUserID": 1,
+      "lastUpdatedUserID": 1,
+      "isActive": 1
+   },
+   {
+      "mealTypeID": 4,
+      "name": "Add Other",
+      "code": "OT",
+      "imgUrl": "https://atlasmappstg.blob.core.windows.net/images/images/img1.png",
+      "createdByUserID": 1,
+      "lastUpdatedUserID": 1,
+      "isActive": 1
+   }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "currentStatusID":1,
+        "title":"General",
+        "imageUrl":"https://atlasmappstg.blob.core.windows.net/assets/General.svg",
+        "priority":1,
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    },
+    {
+        "currentStatusID":2,
+        "title":"Tired",
+        "imageUrl":"https://atlasmappstg.blob.core.windows.net/assets/Tired.svg",
+        "priority":2,
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    },
+    {
+        "currentStatusID":3,
+        "title":"Happy",
+        "imageUrl":"https://atlasmappstg.blob.core.windows.net/assets/Happy.svg",
+        "priority":3,
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    },
+    {
+        "currentStatusID":4,
+        "title":"Excited",
+        "imageUrl":"https://atlasmappstg.blob.core.windows.net/assets/Excited.svg",
+        "priority":4,
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    }
+]

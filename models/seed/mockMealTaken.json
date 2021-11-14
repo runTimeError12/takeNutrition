@@ -1,0 +1,38 @@
+[
+    {
+        "mealTakenID": 1,
+        "userID": 1,
+        "mealTypeID": 1,
+        "takenAt":"2021-08-31T08:03:55.387Z",
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    },
+    {
+        "mealTakenID": 2,
+        "userID": 1,
+        "mealTypeID": 2,
+        "takenAt":"2021-08-31T08:03:55.387Z",
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    },
+    {
+        "mealTakenID": 3,
+        "userID": 1,
+        "mealTypeID": 3,
+        "takenAt":"2021-08-31T08:03:55.387Z",
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    },
+    {
+        "mealTakenID": 4,
+        "userID": 1,
+        "mealTypeID": 4,
+        "takenAt":"2021-08-31T08:03:55.387Z",
+        "createdByUserID": 1,
+        "lastUpdatedUserID": 1,
+        "isActive": 1
+    }
+]
